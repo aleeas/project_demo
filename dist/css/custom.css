@@ -1,0 +1,65 @@
+.navbar-menu{
+   	height: 60px;
+    float: left;
+    width: 100%;
+    background: url("../img/polygonal-texture-background-vector-4.jpg")no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.form-login{
+	padding: 10vh 0;
+	background: url("../img/mountains.jpg") no-repeat;
+	background-position: fixed;
+	background-size: cover;
+	color: #fff;
+	height: 100vh;
+
+}
+.logo-here{
+	margin-bottom: 20px;
+}
+.text-image{
+   	font-size: 12px;
+   	color: #777;
+   	text-decoration: none;
+}
+.table-bordered.list-box td {
+    border: 1px solid #e9ecef;
+    box-shadow: 1px 1px 1px 1px #ddd;
+}
+
+.mt-7,.my-7 {
+  margin-top: 5rem !important;
+}
+
+.pb-7 {
+	padding-bottom: 5rem !important;
+}
+
+.navbar-menu-footer{
+   	height: 60px;
+    float: left;
+    width: 100%;
+    background: #007bff;
+    color: #fff !important;
+    text-align: center;
+}
+
+.navbar-menu-footer .text-image{
+	color: #fff;
+}
+.navbar-menu-footer .nav li {
+	float: left;
+	width: 25%;
+}
+.navbar-menu-footer .nav li.nav-item a {
+	padding: 0.6rem 20px;
+	color: #fff;
+}
+
+.navbar-menu-footer .nav li.nav-item a.active{
+	background: rgba(80,80,80, .5);
+}
