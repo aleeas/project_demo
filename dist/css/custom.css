@@ -15,10 +15,11 @@ body{
 .form-login{
 	padding: 10vh 0;
 	background: url("../img/mountains.jpg") no-repeat;
-	background-position: fixed;
+	position: fixed;
+	width: 100%;
 	background-size: cover;
 	color: #fff;
-	height: 100vh;
+	height: 100%;
 
 }
 .logo-here{
