@@ -214,10 +214,10 @@ body{
   margin: 30px 0px;
 }
 .content .buttons button {
-  float: left;
-  width: 30%;
-  margin: 0px 1.5%;
-  font-size: 13px;
+	float: left;
+	width: 49%;
+	margin: 0px .5%;
+	font-size: 13px;
 }
 .content .buttons button i {
   padding-right: 7px;
