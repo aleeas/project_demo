@@ -1,3 +1,6 @@
+body{
+	overflow-x:hidden; 
+}
 .navbar-menu{
    	height: 60px;
     float: left;
