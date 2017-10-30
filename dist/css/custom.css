@@ -15,7 +15,7 @@ body{
 .form-login{
 	padding: 10vh 0;
 	background: url("../img/mountains.jpg") no-repeat;
-	position: fixed;
+	/*position: fixed;*/
 	width: 100%;
 	background-size: cover;
 	color: #fff;
